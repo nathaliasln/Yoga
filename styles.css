@@ -1,0 +1,95 @@
+* {
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    display: block;
+    margin-top: 128px;
+    margin-left: 18px;
+    margin-right: 227px;
+    font-size: 32px;
+}
+
+label{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    margin-top: 12px;
+    color: #808080
+}
+
+.paragraph {
+    display: block;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: #808080
+}
+
+.email_adress{
+    display: block;
+    margin-top: 102px;
+    background: #F2F2F7;
+    border-radius: 6px;
+    width: 342px;
+    height: 28px;
+    font-style: normal;
+    font-weight: normal;
+    
+}
+
+.passcode {
+    display: block;
+    background: #F2F2F7;
+    margin-top: 12px;
+    border-radius: 6px;
+    width: 343px;
+    height: 28px;  
+    font-style: normal;
+    font-weight: normal; 
+
+}
+
+.remember{
+    display: block;
+    margin-top: 17px;
+    color: #007AFF;
+    font-size: 16px;
+    margin-right: 16px;
+    margin-left: 222px;
+    margin-bottom: 20;
+    text-decoration: none;
+}
+
+button{
+    display: block;
+    margin-top: 20px;
+    background-color: #000000;
+    color: white;
+    width: 343px;
+    height: 28px;
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.creat_account {
+    display: block;
+    margin-top: 204px;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+strong {
+    color:  #007AFF;
+}
